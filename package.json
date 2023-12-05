@@ -1,0 +1,8 @@
+{
+  "name": "porfoliowebsite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lee690/porfoliowebsite.git",
+  "author": "lee690 <chrisleejean@gmail.com>",
+  "license": "MIT"
+}
